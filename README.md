@@ -27,4 +27,5 @@ To run this project locally, follow these steps:
 Once the project is set up, users can explore the Facebook-like interface and gain experience in front-end development by examining the structure and design of the clone.
 
 # Preview
-![image](https://github.com/RafiaZeeshan14/Fb-Clone/assets/141746940/4f0dfa02-cf43-437d-91d3-44c2f82ca843)
+![image](https://github.com/RafiaZeeshan14/Fb-Clone/assets/141746940/a48265cd-6ac1-411d-8ed4-2b319e1d23b5)
+
