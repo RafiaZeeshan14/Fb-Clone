@@ -9,7 +9,6 @@ It serves as a practice project for front-end development, allowing users to exp
 
 ## Features
 - Replication of the Facebook user interface
-- Dummy content to mimic the appearance of a real Facebook feed, profile, etc.
 - Responsive design for seamless viewing on various devices
 - Practice project for front-end development skills
 
